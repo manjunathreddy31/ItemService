@@ -6,3 +6,21 @@ aakjsasssdsdssdsd
 sdsds
 ssdsd
 kjcjchs
+
+/usr/sbin/service --status-all
+/usr/sbin/service name status, start, stop, restart
+
+
+ps -elf | grep <fedex/wiremock>
+
+kill -9 <Process ID>
+17275
+
+/root/Java1.8/jdk1.8.0_60/bin/java -jar /root/MockServices/AdapterMock.jar
+
+/root/Java1.8/jdk1.8.0_60/bin/java -jar /root/MockServices/OrderParcelMock/wiremock-1.57-standalone.jar --port 8480
+
+
+
+
+
